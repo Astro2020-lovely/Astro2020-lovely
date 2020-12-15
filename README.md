@@ -49,8 +49,6 @@
 </div>
 <hr>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astro2020-lovely" alt="Github Streak Stats" />
-    <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Astro2020-lovely&show_icons=true&title_color=63cda9&icon_color=63cda9" alt="my github stats" height="190px"/>
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Astro2020-lovely&langs_count=16&layout=compact&title_color=63cda9" height="190px" />
 </p>
